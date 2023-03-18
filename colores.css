@@ -27,14 +27,20 @@ body{
 
 }
 
+
+body {
+    display: block;
+    margin: 0px;
+}
+
 a:hover {
     color: gray;
     cursor: pointer ;
   }
 .div1 {
        background-color: black; 
-      
-        height:auto;   
+       width: 10%;
+        height:100;  
         float:left;
         border: #000000 px solid; 
         padding: 300px  0px;
@@ -43,7 +49,7 @@ a:hover {
 .div2 { background-color:#00d7f4;
       
         width: 80%; 
-        height: auto; 
+        height: 100; 
         text-align:left ; 
         border: #000000 px solid; 
         padding: 10px 90px; 
@@ -52,7 +58,7 @@ a:hover {
 .div3 {background-color: #ffdf01;
 
     width: 80%; 
-    height: auto; 
+    height: 100; 
     text-align:left; 
     border: #ffdf01 px solid; 
     padding: 10px 90px;
@@ -61,7 +67,7 @@ a:hover {
 .div4 {background-color: #fd7b03;
 
     width: 80%; 
-    height: auto; 
+    height: 100; 
     text-align:left; 
     border: #000000 px solid; 
     padding: 10px 90px;
@@ -70,7 +76,7 @@ a:hover {
 .div5 {background-color:#ff0014;
 
     width: 80%; 
-    height: auto; 
+    height: 100; 
     text-align:left; 
     border: #000000 px solid; 
     padding: 10px 90px;
