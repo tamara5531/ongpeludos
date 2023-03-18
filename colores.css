@@ -28,7 +28,7 @@ body{
 }
 
 a:hover {
-    color: #0ae6c1;
+    color: gray;
     cursor: pointer ;
   }
 .div1 {
